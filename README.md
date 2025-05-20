@@ -1,5 +1,3 @@
-# Banklytics
-
 # Banklytics: Retail Banking Performance & Risk Analytics
 
 ## Overview
