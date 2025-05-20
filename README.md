@@ -23,3 +23,5 @@ The repository emphasizes robust data modeling, advanced SQL, and analytical rep
 - **/docs/**: Project documentation, setup guide, and data dictionary
 
 ---
+
+Data has been kept private and will be available on request and use case.
